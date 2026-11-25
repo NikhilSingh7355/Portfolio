@@ -2,7 +2,7 @@ Nikhil Singh | Portfolio
 
 Personal portfolio of Nikhil Singh, a B.Tech CSE (AI & ML) student based in Lucknow, Uttar Pradesh, India. It showcases my machine learning, computer vision and full-stack projects, and I am open to paid internships.
 
-Live site: https://nikhilsingh7355.github.io
+Live site: [https://nikhilsingh7355.github.io](https://nikhilsingh7355.netlify.app/)
 
 Highlights
 Smooth vertical scrolling with a live 3D background built with Three.js. The camera glides between metallic shapes as you scroll.
